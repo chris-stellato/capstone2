@@ -1,20 +1,10 @@
 # Chris Stellato - Capstone 2 project
+#
+### Presentation 
+
+The final project presentation includes a detailed description of product workflow, results of model training, validation, evaluation on holdout data, and a summary of insights and takeaways. View the final project presentation: https://github.com/chris-stellato/capstone2/blob/main/Presentation_Face_Mask_Image_Classification_Capstone_2_Project.pdf
 
 
-
-
-#### Project Proposal: Face Mask Detection in Images
-Face Mask Detection image set
-https://www.kaggle.com/andrewmvd/face-mask-detection
-
-##### Dataset
-This is an image set sorted into 3 classes: mask, no mask, and incorrectly worn mask. This dataset could be used to train and test various machine learning models and is extremely relevant for present and future applications. 
-
-* image format: .png
-* total images: 950
-
-#### Machine Learning Model:
-Use mask, no mask, and incorrect mask labels to develop and train a machine learning model using images from the dataset. Test the model against holdout data and after verifying accuracy and RMSE, test against user submitted photos. 
 
 
 
@@ -55,25 +45,24 @@ Use mask, no mask, and incorrect mask labels to develop and train a machine lear
 - re-tune long-run model and prepare for final long-run this evening
 
 
+#### Friday:
+- set up model on google collab and manually gridsearch many parameters
+- generate new graphs and add to presentation
+- write function for predicting on new batches of photos
+- set up quick demo method using mac screenshot function
+- reorganize git and publish clean commit without large files
 
 
+#### Original Project Proposal: Face Mask Detection in Images
+Face Mask Detection image set
+https://www.kaggle.com/andrewmvd/face-mask-detection
 
-#
-## Sample Project progression: 
-- Business understanding: outline how what insight we hope to gain from the data
-- Data mining: Download the original images and dataset. Look for opportunities to combine multiple image sets
-- Data cleaning: Reading in and preparing the images for machine learning.  
-- Data exploration: Understanding image format and thinking about pipeline to process the images from various sources 
-- Feature engineering: image data generator and image feature engineering
-- Predictive Modeling: 
-  - split holdout data
-  - scale and normalize, vectorize
-  - NMF or SVD to reduce number of features
-  - grid search across various learning models
-  - cross validate
-  - assess RMSE, accuracy, R2 score and choose the best model and hyperparameters
-  - assess model against holdout data and report on findings. 
-- Data visualization: 
-  -  graph of metrics of various models
-  -  graph of distribution of sample classes
-- Business understanding: test against people who submit sample photos. 
+##### Dataset
+This is an image set sorted into 3 classes: mask, no mask, and incorrectly worn mask. This dataset could be used to train and test various machine learning models and is extremely relevant for present and future applications. 
+
+* image format: .png
+* total images: 950
+
+#### Machine Learning Model:
+Use mask, no mask, and incorrect mask labels to develop and train a machine learning model using images from the dataset. Test the model against holdout data and after verifying accuracy and RMSE, test against user submitted photos. 
+
