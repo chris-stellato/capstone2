@@ -9,6 +9,10 @@ The final project presentation includes a detailed description of product workfl
 
 
 #
+
+![slide1](images/capstone_2_presentation_images/capstone_2_presentation_images.001.jpeg)
+
+#
 ## Daily project updates
 
 #### Monday: 
