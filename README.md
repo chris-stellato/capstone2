@@ -26,7 +26,7 @@ The final project presentation includes a detailed description of product workfl
 
 
 #
-## Daily project updates
+## Daily project updates (5-day project)
 
 #### Monday: 
 - read in image data
@@ -68,18 +68,3 @@ The final project presentation includes a detailed description of product workfl
 - write function for predicting on new batches of photos
 - set up quick demo method using mac screenshot function
 - reorganize git and publish clean commit without large files
-
-
-#### Original Project Proposal: Face Mask Detection in Images
-Face Mask Detection image set
-https://www.kaggle.com/andrewmvd/face-mask-detection
-
-##### Dataset
-This is an image set sorted into 3 classes: mask, no mask, and incorrectly worn mask. This dataset could be used to train and test various machine learning models and is extremely relevant for present and future applications. 
-
-* image format: .png
-* total images: 950
-
-#### Machine Learning Model:
-Use mask, no mask, and incorrect mask labels to develop and train a machine learning model using images from the dataset. Test the model against holdout data and after verifying accuracy and RMSE, test against user submitted photos. 
-
