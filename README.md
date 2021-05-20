@@ -10,8 +10,20 @@ The final project presentation includes a detailed description of product workfl
 
 #
 
-![slide1](images/capstone_2_presentation_images/capstone_2_presentation_images.001.jpeg)
-![slide2](images/capstone_2_presentation_images/capstone_2_presentation_images.002.jpeg)
+![slide 1](images/capstone_2_presentation_images/capstone_2_presentation_images.001.jpeg)
+![slide 2](images/capstone_2_presentation_images/capstone_2_presentation_images.002.jpeg)
+![slide 3](images/capstone_2_presentation_images/capstone_2_presentation_images.003.jpeg)
+![slide 4](images/capstone_2_presentation_images/capstone_2_presentation_images.004.jpeg)
+![slide 5](images/capstone_2_presentation_images/capstone_2_presentation_images.005.jpeg)
+![slide 6](images/capstone_2_presentation_images/capstone_2_presentation_images.006.jpeg)
+![slide 7](images/capstone_2_presentation_images/capstone_2_presentation_images.007.jpeg)
+![slide 8](images/capstone_2_presentation_images/capstone_2_presentation_images.008.jpeg)
+![slide 9](images/capstone_2_presentation_images/capstone_2_presentation_images.009.jpeg)
+![slide 10](images/capstone_2_presentation_images/capstone_2_presentation_images.010.jpeg)
+![slide 11](images/capstone_2_presentation_images/capstone_2_presentation_images.011.jpeg)
+![slide 12](images/capstone_2_presentation_images/capstone_2_presentation_images.012.jpeg)
+![slide 13](images/capstone_2_presentation_images/capstone_2_presentation_images.013.jpeg)
+
 
 #
 ## Daily project updates
