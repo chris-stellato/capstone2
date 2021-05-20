@@ -11,6 +11,7 @@ The final project presentation includes a detailed description of product workfl
 #
 
 ![slide1](images/capstone_2_presentation_images/capstone_2_presentation_images.001.jpeg)
+![slide2](images/capstone_2_presentation_images/capstone_2_presentation_images.002.jpeg)
 
 #
 ## Daily project updates
